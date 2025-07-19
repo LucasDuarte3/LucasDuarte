@@ -8,14 +8,6 @@ Meus contatos:
 </div>
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasDuarte3/LucasDuarte3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasDuarte3/LucasDuarte3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasDuarte3/LucasDuarte3/output/pacman-contribution-graph.svg">
-</picture>
-
-###
----
 ### 🧠 Linguagens e Tecnologias 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
